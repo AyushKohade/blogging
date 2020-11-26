@@ -1,0 +1,24 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/coding thunder",
+      "prod_uri":"mysql://root:@localhost/coding thunder",
+      "fb_url":"https://facebook.com/codingthunder",
+      "tw_url":"https://twitter.com/AyushKohade",
+      "gh_url": "https://github.com/codingthunder",
+      "li_url": "https://linkedin.com//in/ayush-kohade-6238821a9",
+      "ig_url": "https://instagram.com/ayush_15k",
+      "blog_name": "Blog by Yush",
+      "tag_line": "Software Development Project",
+      "gmail-user":"ayushkohade@gmail.com",
+      "gmail-password":"ayushkohade",
+      "about_text": "Hi, this is ur Yush and welcome to my page. I am a student at Vishwakarma Institute of Technology, currently is Second Year persuing degree in Chemical Engineering. ",
+      "no_of_post": 3,
+      "login_image":"8.jpg",
+      "admin_user":"ayush",
+      "admin_password":"subscribenow",
+      "upload_location": "D:\\flask.tut\\static"
+    }
+  }
+  
